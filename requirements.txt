@@ -1,0 +1,4 @@
+telebot
+pillow
+python-dotenv
+pyTelegramBotAPI
